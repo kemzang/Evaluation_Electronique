@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966355660604",
+    "project_id": "evaluationelectronique-2aa60",
+    "storage_bucket": "evaluationelectronique-2aa60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966355660604:android:6f55aa4de09fa2e3bb7839",
+        "android_client_info": {
+          "package_name": "com.example.ue_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNhqEHjLcJKvqoOq6Vveu53TfuW7w2dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
